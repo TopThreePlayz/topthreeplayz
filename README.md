@@ -1,4 +1,14 @@
 ### Hi there 👋
+### 🔭 I’m currently working on a Spigot Minecraft Plugin
+### 🌱 I’m currently learning Python
+### I’m looking to collaborate on 
+### 🤔 I’m looking for help ON HOW TO USE JSON!
+### 💬 Ask me about how to make a website
+### How to reach me:
+  - Discord TopThreePlayz#5196
+  - YouTube TopThreePlayz
+  - Instagram TopThreePlayz
+  - SpigotMC TopThreePlay
 
 <!--
 **TopThreePlayz/topthreeplayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
