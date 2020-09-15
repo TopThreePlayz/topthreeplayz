@@ -1,9 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on a Spigot Minecraft Plugin
 ### 🌱 I’m currently learning Python
-### I’m looking to collaborate on 
-### 🤔 I’m looking for help ON HOW TO USE JSON!
-### 💬 Ask me about how to make a website
 ### How to reach me:
   - Discord TopThreePlayz#5196
   - YouTube TopThreePlayz
