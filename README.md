@@ -5,7 +5,7 @@
   - Discord TopThreePlayz#5196
   - YouTube TopThreePlayz
   - Instagram TopThreePlayz
-  - SpigotMC TopThreePlay
+  - SpigotMC TopThreePlayz
 
 <!--
 **TopThreePlayz/topthreeplayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
