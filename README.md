@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on a Spigot Minecraft Plugin
-### 🌱 I’m currently learning Python
+### 🌱 I’m also working on a massive Unity game :D
 ### How to reach me:
   - Discord TopThreePlayz#5196
   - YouTube TopThreePlayz
